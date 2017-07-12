@@ -1,0 +1,31 @@
+
+.xs-height {
+  height: 20px;
+  background-color: black;
+}
+
+.sm-height {
+  height: 60px;
+  background-color: black;
+}
+
+.md-height {
+  height: 180px;
+  background-color: black;
+}
+
+.lg-height {
+  height: 540px;
+  background-color: black;
+}
+
+/*CONTENT SYLES*/
+#outer {
+  margin-top: 50px;
+}
+
+
+
+.horizontal-gutter {
+  margin: 0 30px;
+}
